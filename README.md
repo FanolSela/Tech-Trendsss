@@ -4,7 +4,7 @@
 
 ## Overview
 
-_**Project Title** Tech Trendsss is a project that gets you up to date with the new technologies coming out. The tech items are can add features to the items of your liking. These items are the hottest in the market!
+Tech Trendsss is a project that gets you up to date with the new technologies coming out. The tech items are can add features to the items of your liking. These items are the hottest in the market!
 
 <br>
 
@@ -12,12 +12,15 @@ _**Project Title** Tech Trendsss is a project that gets you up to date with the 
 
 > Links to social media
 > Dark mode
+> Authenication
+> Edit, add, and delete items
+> Login, register
 
 <br>
 
 ### Goals
 
-- Get out to date with new Tech
+- Get up to date with new Tech
 - Get Detail and edit tech product
 - Add features to the product
 - Have a user friendly experience
@@ -31,8 +34,7 @@ _**Project Title** Tech Trendsss is a project that gets you up to date with the 
 |      React       |                  Library                   |
 |   React Router   |                  Routing                   |
 | React SemanticUI |             Api, icons, props              |
-|     Express      |             Backend Development            |
-|  Express Router  |               Backend Routing              |
+|  Ruby on rails   |             Backend Development            |
 
 <br>
 
@@ -91,5 +93,4 @@ src
 
 ## Post-MVP
 
-> Authenication
 > Features on products
